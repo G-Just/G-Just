@@ -55,6 +55,8 @@ I’m currently working on this page.
 ## Contact me
 
 I'm ready to bring my enthusiasm and skills to the table : 
-- ![](https://dcbadge.vercel.app/api/shield/255368070409748480)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+[![Discord](https://dcbadge.vercel.app/api/shield/255368070409748480)](https://discordapp.com/users/255368070409748480)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjustas00@gmail.com)
 
