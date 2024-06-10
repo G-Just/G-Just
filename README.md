@@ -20,7 +20,7 @@ As a Full-Stack | PHP developer, I'm enthusiastic about web development and eage
     - Learned design development flow using Bootstrap.
 
 [**Factory-game**](https://github.com/G-Just/Factory-game-website) :
-  - A web game created by using vanilla JavaScript(JS). Very crude design, was only starting to grasp JS.
+  - A web game created by using vanilla JavaScript(JS). Very crude design was only starting to grasp JS.
   - Key takeaways :
     - Working with JS classes and objects.
     - HTML canvass intricacies.
@@ -45,12 +45,12 @@ As a Full-Stack | PHP developer, I'm enthusiastic about web development and eage
 - Proficient in fundamental web development languages and technologies including HTML, CSS, JavaScript, and PHP, including libraries/frameworks such as Laravel and React.js.
 - Understanding of database systems and management using MySQL.
 - Familiarity with version control systems such as Git.
-- Alacrity to learn and adapt to new technologies.
+- Ability to learn and adapt to new technologies.
 - Strong problem-solving skills and attention to detail.
 
 I’m currently working on this page.
 [Movie rating website](https://github.com/G-Just/Laravel-movie-V2) :
- - Website for my friends and I to add our watched content ( movies / series / anime / etc.) and rate it for future reference (rewatching or finding something highly rated to watch next).
+ - Website for my friends and me to add our watched content ( movies / series / anime / etc.) and rate it for future reference (rewatching or finding something highly rated to watch next).
 
 ## Contact me
 
