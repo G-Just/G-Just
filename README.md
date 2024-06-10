@@ -3,7 +3,7 @@
 
 ![Banner](https://github.com/G-Just/G-Just/assets/135387482/4c1daca6-6137-41b7-a8f4-fd27e45b865d)
 
-As a Full-Stack | PHP developer, I'm enthusiastic about delving into the world of web development and eager to showcase my skills and potential. Below are some noteworthy projects that reflect my dedication to learning and passion for this field.
+As a Full-Stack | PHP developer, I'm enthusiastic about web development and eager to showcase my skills. Below are some of my noteworthy projects.
 
 ## My projects:
 
